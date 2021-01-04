@@ -6,4 +6,6 @@ The text files were all given as well as some starter code, and the goal was to 
 
 This was a team project done by myself and a classmate.
 
-The goal of the game is to go on the adventure, collecting objects, and eventually completing some goal. The text files can be manipulated to emulate the adventure of the users choosing. 
+The goal of the game is to go on the adventure, collecting objects, manipulating the environment, and eventually completing some goal. The text files can be manipulated to emulate the adventure of the users choosing. 
+
+Essentially, each room is an object, and the room knows which other rooms it points to. A conceptual map can be drawn of this world, with connections between corresponding rooms. 
